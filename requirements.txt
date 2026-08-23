@@ -4,4 +4,4 @@ scikit-learn
 matplotlib
 seaborn
 vs code
-fast api
+fastapi
